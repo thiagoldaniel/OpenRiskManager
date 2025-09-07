@@ -17,3 +17,10 @@ A fundamentação do OpenRiskManager atende às diretrizes metodológicas estabe
   #Uso de ferramentas inovadoras de desenvolvimento (LowCode/NoCode);
 
   #Contribuição prática e científica para o campo da Governança de TI.
+
+## Status do Projeto
+
+ - Levantamento de requisitos - OK
+ - Modelagem conceitual e arquitetura - OK
+ - Prova de conceito funcional - Em Curso
+ - Validação em ambiente organizacional real - Em Curso
