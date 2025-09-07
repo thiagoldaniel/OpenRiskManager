@@ -24,3 +24,7 @@ A fundamentação do OpenRiskManager atende às diretrizes metodológicas estabe
  - Modelagem conceitual e arquitetura - OK
  - Prova de conceito funcional - Em Curso
  - Validação em ambiente organizacional real - Em Curso
+
+## Licença
+
+Este projeto é disponibilizado sob a licença MIT License, permitindo livre uso, modificação e distribuição, desde que preservados os créditos de autoria.
