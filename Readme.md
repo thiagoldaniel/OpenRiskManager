@@ -10,13 +10,10 @@ Este projeto foi desenvolvido como parte integrante da apresentação de Trabalh
 
 A fundamentação do OpenRiskManager atende às diretrizes metodológicas estabelecidas no curso, incluindo:
 
-  #Desenvolvimento de uma prova de conceito aplicada;
-
-  #Estruturação em alinhamento com frameworks de governança e segurança da informação;
-
-  #Uso de ferramentas inovadoras de desenvolvimento (LowCode/NoCode);
-
-  #Contribuição prática e científica para o campo da Governança de TI.
+  -Desenvolvimento de uma prova de conceito aplicada;
+  -Estruturação em alinhamento com frameworks de governança e segurança da informação;
+  -Uso de ferramentas inovadoras de desenvolvimento (LowCode/NoCode);
+  -Contribuição prática e científica para o campo da Governança de TI.
 
 ## Status do Projeto
 
