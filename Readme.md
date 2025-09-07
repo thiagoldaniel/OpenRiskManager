@@ -20,11 +20,13 @@ A fundamentação do OpenRiskManager atende às diretrizes metodológicas estabe
 
 ## Tecnologias Utilizadas
 
-ScriptCase – framework LowCode para desenvolvimento rápido de aplicações;
-
-MariaDB – banco de dados relacional open source, robusto e escalável;
-
-Normas de referência – ISO 27001, COBIT, ITIL, além do modelo de avaliação TISAX.
+- ScriptCase – framework LowCode para desenvolvimento rápido de aplicações.
+- MariaDB – banco de dados relacional open source, robusto e escalável.
+- Normas de referência – ISO 27001, COBIT, ITIL, além do modelo de avaliação TISAX.
+- GitHub.
+- Microsoft Visual Code.
+- Putty.
+- WinSCP.
 
 ## Status do Projeto
 
