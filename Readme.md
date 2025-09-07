@@ -18,6 +18,14 @@ A fundamentação do OpenRiskManager atende às diretrizes metodológicas estabe
   
   -Contribuição prática e científica para o campo da Governança de TI.
 
+## Tecnologias Utilizadas
+
+ScriptCase – framework LowCode para desenvolvimento rápido de aplicações;
+
+MariaDB – banco de dados relacional open source, robusto e escalável;
+
+Normas de referência – ISO 27001, COBIT, ITIL, além do modelo de avaliação TISAX.
+
 ## Status do Projeto
 
  - Levantamento de requisitos - OK
@@ -29,41 +37,5 @@ A fundamentação do OpenRiskManager atende às diretrizes metodológicas estabe
 
 Este projeto é disponibilizado sob a licença MIT License, permitindo livre uso, modificação e distribuição, desde que preservados os créditos de autoria.
 
-flowchart TB
-    subgraph Users[Usuários]
-      U1[Admin]:::role
-      U2[Gestores]:::role
-      U3[Auditores]:::role
-    end
 
-    subgraph App[Camada de Aplicação (ScriptCase - LowCode)]
-      M1[Cadastro de Riscos & Controles]
-      M2[Não Conformidades & Planos de Ação]
-      M3[Inventário de Ativos]
-      M4[Relatórios & Dashboards]
-      M5[Gestão de Evidências]
-      M6[Autenticação & Perfis]
-    end
-
-    subgraph Gov[Normas / Frameworks de Referência]
-      N1[ISO/IEC 27001]
-      N2[COBIT]
-      N3[ITIL]
-      N4[TISAX (mecanismo de avaliação via VDA ISA)]
-    end
-
-    subgraph Data[Banco de Dados (MariaDB)]
-      D1[(Tabelas de Riscos)]
-      D2[(Controles & Evidências)]
-      D3[(Ativos)]
-      D4[(Auditorias & Logs)]
-      D5[(Usuários & Perfis)]
-    end
-
-    Users --> App
-    App --> Data
-    Gov --- App
-    App -->|Relatórios/Indicadores| Users
-
-    classDef role fill:#EEE,stroke:#333,color:#111;
 
