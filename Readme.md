@@ -39,10 +39,10 @@ Este projeto é disponibilizado sob a licença MIT License, permitindo livre uso
 
 ## Modelo Relacional Banco de dados 1
 
-![Modelo Relacional 1](docs/arquitetura-openriskmanager.png)
+![Modelo Relacional 1](docs/diagrama1.png)
 *Fonte: Elaboração própria (2025).*
 
 ## Modelo Relacional Banco de dados 2
 
-![Modelo Relacional 2](docs/arquitetura-openriskmanager.png)
+![Modelo Relacional 2](docs/diagrama2.png)
 *Fonte: Elaboração própria (2025).*
