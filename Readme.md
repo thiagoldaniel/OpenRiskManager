@@ -31,7 +31,6 @@ A fundamentação do OpenRiskManager atende às diretrizes metodológicas estabe
 - WinSCP.
 - Bizzagi.
 - Draw.io
-- 
 
 ## Status do Projeto
 
