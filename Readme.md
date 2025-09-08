@@ -18,15 +18,20 @@ A fundamentação do OpenRiskManager atende às diretrizes metodológicas estabe
   
   -Contribuição prática e científica para o campo da Governança de TI.
 
-## Tecnologias Utilizadas
+## Tecnologias e Ferramentas Utilizadas
 
 - ScriptCase – framework LowCode para desenvolvimento rápido de aplicações.
+- Servidor Web Apache.
+- Framework PHP 8.1.
 - MariaDB – banco de dados relacional open source, robusto e escalável.
 - Normas de referência – ISO 27001, COBIT, ITIL, além do modelo de avaliação TISAX.
 - GitHub.
 - Microsoft Visual Code.
 - Putty.
 - WinSCP.
+- Bizzagi.
+- Draw.io
+- 
 
 ## Status do Projeto
 
