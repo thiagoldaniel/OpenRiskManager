@@ -8,7 +8,7 @@ O projeto busca atender às necessidades crescentes de gestão de riscos de segu
 
 Este projeto foi desenvolvido como parte integrante da apresentação de Trabalho de Conclusão de Curso (TCC) do programa de Pós-Graduação em Governança de Tecnologia da Informação da Unicamp.
 
-A fundamentação do OpenRiskManager atende às diretrizes metodológicas estabelecidas no curso, incluindo:
+A fundamentação do OpenRiskManager atende às diretrizes metodológicas estabelecidas no curso, incluindo mas não se limitando:
 
   -Desenvolvimento de uma prova de conceito aplicada;
   
