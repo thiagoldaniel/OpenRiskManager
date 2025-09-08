@@ -20,11 +20,13 @@ A fundamentação do OpenRiskManager atende às diretrizes metodológicas estabe
 
 ## Tecnologias Utilizadas
 
-ScriptCase – framework LowCode para desenvolvimento rápido de aplicações;
-
-MariaDB – banco de dados relacional open source, robusto e escalável;
-
-Normas de referência – ISO 27001, COBIT, ITIL, além do modelo de avaliação TISAX.
+- ScriptCase – framework LowCode para desenvolvimento rápido de aplicações.
+- MariaDB – banco de dados relacional open source, robusto e escalável.
+- Normas de referência – ISO 27001, COBIT, ITIL, além do modelo de avaliação TISAX.
+- GitHub.
+- Microsoft Visual Code.
+- Putty.
+- WinSCP.
 
 ## Status do Projeto
 
@@ -39,10 +41,10 @@ Este projeto é disponibilizado sob a licença MIT License, permitindo livre uso
 
 ## Modelo Relacional Banco de dados 1
 
-![Modelo Relacional 1](docs/arquitetura-openriskmanager.png)
+![Modelo Relacional 1](docs/diagrama1.png)
 *Fonte: Elaboração própria (2025).*
 
 ## Modelo Relacional Banco de dados 2
 
-![Modelo Relacional 2](docs/arquitetura-openriskmanager.png)
+![Modelo Relacional 2](docs/diagrama2.png)
 *Fonte: Elaboração própria (2025).*
